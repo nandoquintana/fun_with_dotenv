@@ -2,7 +2,7 @@
 
 Simple example of the usage of .env in Python
 
-## Config Python:
+## Config Python
 
 ```
 python3 -m venv env
