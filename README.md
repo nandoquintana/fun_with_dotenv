@@ -18,6 +18,7 @@ Save your secrets in a file called `.env` like this:
 
 ```
 MY_SECRET="this is my secret"
+MY_OTHER_SECRET=3210
 ```
 
 ### Run the example
